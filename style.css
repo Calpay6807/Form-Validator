@@ -1,0 +1,17 @@
+/* 
+label{
+    font-size: 20px;
+} */
+ .buton{
+   
+   width: 90%;
+   margin-left: 5%; 
+   border-radius: 5px;
+   border: none;
+   background-color: rgba(3, 16, 53, 0.818);
+   color: white;
+} 
+.card{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
